@@ -16,8 +16,8 @@
 ## Data Collection Methods
 - [**Surveys and Questionnaires**](https://github.com/fromsantanu/IRM-09-Surveys-and-Questionnaires)
 - [**Interviews and Focus Groups**](https://github.com/fromsantanu/IRM-10-Interviews-and-Focus-Groups)
-- [**Observational Studies**](#)
-- [**Use of Electronic Health Records (EHRs)**](#)
+- [**Observational Studies**](https://github.com/fromsantanu/IRM-11-Observational-Studies)
+- [**Use of Electronic Health Records (EHRs)**](https://github.com/fromsantanu/IRM-12-Use-of-Electronic-Health-Records-EHRs)
 
 ## Experimental and Non-Experimental Research
 - [**Randomized Controlled Trials (RCTs)**](#)
