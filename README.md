@@ -1,4 +1,5 @@
-# Introduction to Healthcare Research Methods  ![HitCount](https://hits.dwyl.com/fromsantanu/IRM-Main.svg)
+# Introduction to Healthcare Research Methods  
+![HitCount](https://hits.dwyl.com/fromsantanu/IRM-Main.svg) <br>
 ## Overview of Healthcare Research
 - [**Importance of Research in Healthcare**](https://github.com/fromsantanu/IRM-Main/blob/main/pages/Chapter1.md)
 - [**Types of Healthcare Research (Basic, Clinical, Translational, and Public Health Research)**](https://github.com/fromsantanu/IRM-Main/blob/main/pages/Chapter2.md)
