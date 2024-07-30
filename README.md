@@ -6,7 +6,7 @@
 ## Ethics in Healthcare Research
 - [**Informed Consent**](https://github.com/fromsantanu/IRM-03-Informed-Consent)
 - [**Institutional Review Boards (IRBs)**](https://github.com/fromsantanu/IRM-04-Institutional-Review-Boards)
-- [**Ethical Considerations in Human and Animal Research**](#)
+- [**Ethical Considerations in Human and Animal Research**](https://github.com/fromsantanu/IRM-05-Ethical-Considerations-in-Human-and-Animal-Research)
 
 ## Research Design and Methodology
 - [**Qualitative vs. Quantitative Research**](#)
