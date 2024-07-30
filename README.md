@@ -14,8 +14,8 @@
 - [**Cross-Sectional vs. Longitudinal Studies**](https://github.com/fromsantanu/IRM-08-Cross-Sectional-vs-Longitudinal-Studies)
 
 ## Data Collection Methods
-- [**Surveys and Questionnaires**](#)
-- [**Interviews and Focus Groups**](#)
+- [**Surveys and Questionnaires**](https://github.com/fromsantanu/IRM-09-Surveys-and-Questionnaires)
+- [**Interviews and Focus Groups**](https://github.com/fromsantanu/IRM-10-Interviews-and-Focus-Groups)
 - [**Observational Studies**](#)
 - [**Use of Electronic Health Records (EHRs)**](#)
 
