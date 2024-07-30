@@ -1,23 +1,23 @@
 # Introduction to Healthcare Research Methods
 ## Overview of Healthcare Research
 - [**Importance of Research in Healthcare**](https://github.com/fromsantanu/IRM-Main/blob/main/pages/Chapter1.md)
-- [**Types of Healthcare Research (Basic, Clinical, Translational, and Public Health Research)**](https://github.com/fromsantanu//IRM-Main/blob/main/pages/Chapter2.md)
+- [**Types of Healthcare Research (Basic, Clinical, Translational, and Public Health Research)**](https://github.com/fromsantanu/IRM-Main/blob/main/pages/Chapter2.md)
 
 ## Ethics in Healthcare Research
-- [**Informed Consent**](https://github.com/fromsantanu/IRM-03-Informed-Consent)
-- [**Institutional Review Boards (IRBs)**](https://github.com/fromsantanu/IRM-04-Institutional-Review-Boards)
-- [**Ethical Considerations in Human and Animal Research**](https://github.com/fromsantanu/IRM-05-Ethical-Considerations-in-Human-and-Animal-Research)
+- [**Informed Consent**](https://github.com/fromsantanu/IRM-Main/blob/main/pages/Chapter3.md)
+- [**Institutional Review Boards (IRBs)**](https://github.com/fromsantanu/IRM-Main/blob/main/pages/Chapter4.md)
+- [**Ethical Considerations in Human and Animal Research**](https://github.com/fromsantanu/IRM-Main/blob/main/pages/Chapter5.md)
 
 ## Research Design and Methodology
-- [**Qualitative vs. Quantitative Research**](https://github.com/fromsantanu/IRM-06-Qualitative-vs-Quantitative-Research)
-- [**Mixed-Methods Research**](https://github.com/fromsantanu/IRM-07-Mixed-Methods-Research)
-- [**Cross-Sectional vs. Longitudinal Studies**](https://github.com/fromsantanu/IRM-08-Cross-Sectional-vs-Longitudinal-Studies)
+- [**Qualitative vs. Quantitative Research**](https://github.com/fromsantanu/IRM-Main/blob/main/pages/Chapter6.md)
+- [**Mixed-Methods Research**](https://github.com/fromsantanu/IRM-Main/blob/main/pages/Chapter7.md)
+- [**Cross-Sectional vs. Longitudinal Studies**](https://github.com/fromsantanu/IRM-Main/blob/main/pages/Chapter8.md)
 
 ## Data Collection Methods
-- [**Surveys and Questionnaires**](https://github.com/fromsantanu/IRM-09-Surveys-and-Questionnaires)
-- [**Interviews and Focus Groups**](https://github.com/fromsantanu/IRM-10-Interviews-and-Focus-Groups)
-- [**Observational Studies**](https://github.com/fromsantanu/IRM-11-Observational-Studies)
-- [**Use of Electronic Health Records (EHRs)**](https://github.com/fromsantanu/IRM-12-Use-of-Electronic-Health-Records-EHRs)
+- [**Surveys and Questionnaires**](https://github.com/fromsantanu/IRM-Main/blob/main/pages/Chapter9.md)
+- [**Interviews and Focus Groups**](https://github.com/fromsantanu/IRM-Main/blob/main/pages/Chapter10.md)
+- [**Observational Studies**](https://github.com/fromsantanu/IRM-Main/blob/main/pages/Chapter11.md)
+- [**Use of Electronic Health Records (EHRs)**](https://github.com/fromsantanu/IRM-Main/blob/main/pages/Chapter12.md)
 
 ## Experimental and Non-Experimental Research
 - [**Randomized Controlled Trials (RCTs)**](#)
