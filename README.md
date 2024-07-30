@@ -1,23 +1,23 @@
 # Introduction to Healthcare Research Methods
 ## Overview of Healthcare Research
-- Importance of Research in Healthcare
-- Types of Healthcare Research (Basic, Clinical, Translational, and Public Health Research)
+- [**Importance of Research in Healthcare**](#)
+- [**Types of Healthcare Research (Basic, Clinical, Translational, and Public Health Research)**](#)
 
 ## Ethics in Healthcare Research
-- Informed Consent
-- Institutional Review Boards (IRBs)
-- Ethical Considerations in Human and Animal Research
+- [**Informed Consent**](#)
+- [**Institutional Review Boards (IRBs)**](#)
+- [**Ethical Considerations in Human and Animal Research**](#)
 
 ## Research Design and Methodology
-- Qualitative vs. Quantitative Research
-- Mixed-Methods Research
-- Cross-Sectional vs. Longitudinal Studies
+- [**Qualitative vs. Quantitative Research**](#)
+- [**Mixed-Methods Research**](#)
+- [**Cross-Sectional vs. Longitudinal Studies**](#)
 
 ## Data Collection Methods
-- Surveys and Questionnaires
-- Interviews and Focus Groups
-- Observational Studies
-- Use of Electronic Health Records (EHRs)
+- [**Surveys and Questionnaires**](#)
+- [**Interviews and Focus Groups**](#)
+- [**Observational Studies##](#)
+- [**Use of Electronic Health Records (EHRs)**](#)
 
 ## Experimental and Non-Experimental Research
 - Randomized Controlled Trials (RCTs)
