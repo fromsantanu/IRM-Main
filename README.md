@@ -4,7 +4,7 @@
 - [**Types of Healthcare Research (Basic, Clinical, Translational, and Public Health Research)**](https://github.com/fromsantanu/IRM-02-Types-of-Healthcare-Research)
 
 ## Ethics in Healthcare Research
-- [**Informed Consent**](#)
+- [**Informed Consent**](https://github.com/fromsantanu/IRM-03-Informed-Consent)
 - [**Institutional Review Boards (IRBs)**](#)
 - [**Ethical Considerations in Human and Animal Research**](#)
 
