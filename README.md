@@ -16,7 +16,7 @@
 ## Data Collection Methods
 - [**Surveys and Questionnaires**](#)
 - [**Interviews and Focus Groups**](#)
-- [**Observational Studies##](#)
+- [**Observational Studies**](#)
 - [**Use of Electronic Health Records (EHRs)**](#)
 
 ## Experimental and Non-Experimental Research
