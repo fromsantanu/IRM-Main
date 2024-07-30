@@ -9,9 +9,9 @@
 - [**Ethical Considerations in Human and Animal Research**](https://github.com/fromsantanu/IRM-05-Ethical-Considerations-in-Human-and-Animal-Research)
 
 ## Research Design and Methodology
-- [**Qualitative vs. Quantitative Research**](#)
-- [**Mixed-Methods Research**](#)
-- [**Cross-Sectional vs. Longitudinal Studies**](#)
+- [**Qualitative vs. Quantitative Research**](https://github.com/fromsantanu/IRM-06-Qualitative-vs-Quantitative-Research)
+- [**Mixed-Methods Research**](https://github.com/fromsantanu/IRM-07-Mixed-Methods-Research)
+- [**Cross-Sectional vs. Longitudinal Studies**](https://github.com/fromsantanu/IRM-08-Cross-Sectional-vs-Longitudinal-Studies)
 
 ## Data Collection Methods
 - [**Surveys and Questionnaires**](#)
