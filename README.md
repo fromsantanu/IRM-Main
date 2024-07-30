@@ -1,6 +1,6 @@
 # Introduction to Healthcare Research Methods
 ## Overview of Healthcare Research
-- [**Importance of Research in Healthcare**](#)
+- [**Importance of Research in Healthcare**](https://github.com/fromsantanu/IRM-01-Importance-of-research-in-healthcare)
 - [**Types of Healthcare Research (Basic, Clinical, Translational, and Public Health Research)**](#)
 
 ## Ethics in Healthcare Research
